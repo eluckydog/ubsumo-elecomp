@@ -1,0 +1,7 @@
+UniProt to PDB mapping method:
+1. Use RCSB GraphQL API query_uniprot_ids endpoint
+2. Query: {query_uniProtIds(ids: ["UNIPROT_ID"]) {pdbIds edge {node {pdbId}}}}
+3. Cross-reference with DBREF records from each PDB for chain-level assignment
+4. Map K site positions between UniProt and PDB residue numbering
+
+Test scripts in code/tests/ document 8 iterations of RCSB API debugging.

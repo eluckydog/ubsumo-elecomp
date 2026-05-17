@@ -1,0 +1,658 @@
+{
+  "ubiquitin": {
+    "name": "Ub",
+    "pdb": "ubiquitin_1UBQ.pdb",
+    "n_hydrophobic_residues_exposed": 17,
+    "n_patches": 5,
+    "largest_patch_size": 4,
+    "largest_patch_sasa": 330.7,
+    "patches": [
+      {
+        "size": 4,
+        "total_sasa": 330.7,
+        "avg_sasa_per_res": 82.7,
+        "residues": [
+          {
+            "index": 70,
+            "aa": "LEU",
+            "sasa": 84.0
+          },
+          {
+            "index": 72,
+            "aa": "LEU",
+            "sasa": 99.3
+          },
+          {
+            "index": 74,
+            "aa": "GLY",
+            "sasa": 73.7
+          },
+          {
+            "index": 75,
+            "aa": "GLY",
+            "sasa": 73.7
+          }
+        ]
+      },
+      {
+        "size": 3,
+        "total_sasa": 165.1,
+        "avg_sasa_per_res": 55.0,
+        "residues": [
+          {
+            "index": 34,
+            "aa": "GLY",
+            "sasa": 42.7
+          },
+          {
+            "index": 35,
+            "aa": "ILE",
+            "sasa": 54.6
+          },
+          {
+            "index": 36,
+            "aa": "PRO",
+            "sasa": 67.8
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 140.5,
+        "avg_sasa_per_res": 70.2,
+        "residues": [
+          {
+            "index": 45,
+            "aa": "ALA",
+            "sasa": 82.3
+          },
+          {
+            "index": 46,
+            "aa": "GLY",
+            "sasa": 58.2
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 134.4,
+        "avg_sasa_per_res": 67.2,
+        "residues": [
+          {
+            "index": 7,
+            "aa": "LEU",
+            "sasa": 84.0
+          },
+          {
+            "index": 9,
+            "aa": "GLY",
+            "sasa": 50.4
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 119.3,
+        "avg_sasa_per_res": 59.6,
+        "residues": [
+          {
+            "index": 0,
+            "aa": "MET",
+            "sasa": 73.1
+          },
+          {
+            "index": 16,
+            "aa": "VAL",
+            "sasa": 46.2
+          }
+        ]
+      }
+    ]
+  },
+  "sumo1": {
+    "name": "SUMO-1",
+    "pdb": "sumo1_1A5R.pdb",
+    "n_hydrophobic_residues_exposed": 20,
+    "n_patches": 7,
+    "largest_patch_size": 3,
+    "largest_patch_sasa": 234.0,
+    "patches": [
+      {
+        "size": 3,
+        "total_sasa": 234.0,
+        "avg_sasa_per_res": 78.0,
+        "residues": [
+          {
+            "index": 97,
+            "aa": "GLY",
+            "sasa": 58.2
+          },
+          {
+            "index": 98,
+            "aa": "GLY",
+            "sasa": 50.4
+          },
+          {
+            "index": 102,
+            "aa": "VAL",
+            "sasa": 125.4
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 203.3,
+        "avg_sasa_per_res": 101.6,
+        "residues": [
+          {
+            "index": 0,
+            "aa": "GLY",
+            "sasa": 81.5
+          },
+          {
+            "index": 2,
+            "aa": "MET",
+            "sasa": 121.8
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 186.1,
+        "avg_sasa_per_res": 93.0,
+        "residues": [
+          {
+            "index": 35,
+            "aa": "ILE",
+            "sasa": 85.8
+          },
+          {
+            "index": 37,
+            "aa": "PHE",
+            "sasa": 100.3
+          }
+        ]
+      },
+      {
+        "size": 3,
+        "total_sasa": 171.8,
+        "avg_sasa_per_res": 57.3,
+        "residues": [
+          {
+            "index": 78,
+            "aa": "PRO",
+            "sasa": 80.1
+          },
+          {
+            "index": 82,
+            "aa": "GLY",
+            "sasa": 34.9
+          },
+          {
+            "index": 83,
+            "aa": "MET",
+            "sasa": 56.8
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 165.3,
+        "avg_sasa_per_res": 82.6,
+        "residues": [
+          {
+            "index": 14,
+            "aa": "LEU",
+            "sasa": 99.3
+          },
+          {
+            "index": 15,
+            "aa": "GLY",
+            "sasa": 66.0
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 162.4,
+        "avg_sasa_per_res": 81.2,
+        "residues": [
+          {
+            "index": 7,
+            "aa": "ALA",
+            "sasa": 82.3
+          },
+          {
+            "index": 9,
+            "aa": "PRO",
+            "sasa": 80.1
+          }
+        ]
+      },
+      {
+        "size": 2,
+        "total_sasa": 142.8,
+        "avg_sasa_per_res": 71.4,
+        "residues": [
+          {
+            "index": 72,
+            "aa": "ILE",
+            "sasa": 70.2
+          },
+          {
+            "index": 73,
+            "aa": "ALA",
+            "sasa": 72.6
+          }
+        ]
+      }
+    ]
+  },
+  "all": [
+    {
+      "pdb": "ubiquitin_1UBQ.pdb",
+      "label": "Ub",
+      "n_patches": 5,
+      "largest_patch_size": 4,
+      "largest_patch_sasa": 330.7,
+      "score": 70,
+      "reason": "size=4 sasa=331 arom=0 fyf=False"
+    },
+    {
+      "pdb": "sumo1_1A5R.pdb",
+      "label": "SUMO-1",
+      "n_patches": 7,
+      "largest_patch_size": 3,
+      "largest_patch_sasa": 234.0,
+      "score": 53.4,
+      "reason": "size=3 sasa=234 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1a02.pdb",
+      "label": "other",
+      "n_patches": 15,
+      "largest_patch_size": 5,
+      "largest_patch_sasa": 513.5,
+      "score": 95,
+      "reason": "size=5 sasa=514 arom=1 fyf=False"
+    },
+    {
+      "pdb": "1a52.pdb",
+      "label": "other",
+      "n_patches": 22,
+      "largest_patch_size": 13,
+      "largest_patch_sasa": 1085.0,
+      "score": 80,
+      "reason": "size=13 sasa=1085 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1ain.pdb",
+      "label": "other",
+      "n_patches": 9,
+      "largest_patch_size": 7,
+      "largest_patch_sasa": 399.7,
+      "score": 80,
+      "reason": "size=7 sasa=400 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1bf5.pdb",
+      "label": "other",
+      "n_patches": 21,
+      "largest_patch_size": 14,
+      "largest_patch_sasa": 935.8,
+      "score": 130,
+      "reason": "size=14 sasa=936 arom=2 fyf=True"
+    },
+    {
+      "pdb": "1dfc.pdb",
+      "label": "other",
+      "n_patches": 28,
+      "largest_patch_size": 5,
+      "largest_patch_sasa": 380.6,
+      "score": 95,
+      "reason": "size=5 sasa=381 arom=1 fyf=False"
+    },
+    {
+      "pdb": "1e3g.pdb",
+      "label": "other",
+      "n_patches": 12,
+      "largest_patch_size": 21,
+      "largest_patch_sasa": 1269.1,
+      "score": 95,
+      "reason": "size=21 sasa=1269 arom=1 fyf=False"
+    },
+    {
+      "pdb": "1fmk.pdb",
+      "label": "other",
+      "n_patches": 16,
+      "largest_patch_size": 14,
+      "largest_patch_sasa": 788.5,
+      "score": 95,
+      "reason": "size=14 sasa=788 arom=1 fyf=False"
+    },
+    {
+      "pdb": "1g3j.pdb",
+      "label": "other",
+      "n_patches": 39,
+      "largest_patch_size": 7,
+      "largest_patch_sasa": 386.0,
+      "score": 80,
+      "reason": "size=7 sasa=386 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1gh6.pdb",
+      "label": "other",
+      "n_patches": 19,
+      "largest_patch_size": 12,
+      "largest_patch_sasa": 794.7,
+      "score": 160,
+      "reason": "size=12 sasa=795 arom=4 fyf=True"
+    },
+    {
+      "pdb": "1hcp.pdb",
+      "label": "other",
+      "n_patches": 3,
+      "largest_patch_size": 7,
+      "largest_patch_sasa": 352.4,
+      "score": 80,
+      "reason": "size=7 sasa=352 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1nfi.pdb",
+      "label": "other",
+      "n_patches": 50,
+      "largest_patch_size": 9,
+      "largest_patch_sasa": 512.8,
+      "score": 95,
+      "reason": "size=9 sasa=513 arom=1 fyf=False"
+    },
+    {
+      "pdb": "1nkp.pdb",
+      "label": "other",
+      "n_patches": 15,
+      "largest_patch_size": 8,
+      "largest_patch_sasa": 524.9,
+      "score": 80,
+      "reason": "size=8 sasa=525 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1p22.pdb",
+      "label": "other",
+      "n_patches": 21,
+      "largest_patch_size": 12,
+      "largest_patch_sasa": 946.9,
+      "score": 130,
+      "reason": "size=12 sasa=947 arom=2 fyf=True"
+    },
+    {
+      "pdb": "1pzl.pdb",
+      "label": "other",
+      "n_patches": 11,
+      "largest_patch_size": 16,
+      "largest_patch_sasa": 1083.4,
+      "score": 95,
+      "reason": "size=16 sasa=1083 arom=1 fyf=False"
+    },
+    {
+      "pdb": "1ul1.pdb",
+      "label": "other",
+      "n_patches": 44,
+      "largest_patch_size": 6,
+      "largest_patch_sasa": 589.9,
+      "score": 80,
+      "reason": "size=6 sasa=590 arom=0 fyf=False"
+    },
+    {
+      "pdb": "1xq8.pdb",
+      "label": "other",
+      "n_patches": 9,
+      "largest_patch_size": 23,
+      "largest_patch_sasa": 1218.2,
+      "score": 95,
+      "reason": "size=23 sasa=1218 arom=1 fyf=False"
+    },
+    {
+      "pdb": "2cv5.pdb",
+      "label": "other",
+      "n_patches": 24,
+      "largest_patch_size": 8,
+      "largest_patch_sasa": 661.4,
+      "score": 80,
+      "reason": "size=8 sasa=661 arom=0 fyf=False"
+    },
+    {
+      "pdb": "2jy6.pdb",
+      "label": "other",
+      "n_patches": 7,
+      "largest_patch_size": 5,
+      "largest_patch_sasa": 362.9,
+      "score": 130,
+      "reason": "size=5 sasa=363 arom=2 fyf=True"
+    },
+    {
+      "pdb": "2kbw.pdb",
+      "label": "other",
+      "n_patches": 8,
+      "largest_patch_size": 9,
+      "largest_patch_sasa": 615.8,
+      "score": 145,
+      "reason": "size=9 sasa=616 arom=3 fyf=True"
+    },
+    {
+      "pdb": "2mux.pdb",
+      "label": "other",
+      "n_patches": 11,
+      "largest_patch_size": 7,
+      "largest_patch_sasa": 422.6,
+      "score": 80,
+      "reason": "size=7 sasa=423 arom=0 fyf=False"
+    },
+    {
+      "pdb": "2ro1.pdb",
+      "label": "other",
+      "n_patches": 8,
+      "largest_patch_size": 9,
+      "largest_patch_sasa": 599.9,
+      "score": 80,
+      "reason": "size=9 sasa=600 arom=0 fyf=False"
+    },
+    {
+      "pdb": "3brt.pdb",
+      "label": "other",
+      "n_patches": 6,
+      "largest_patch_size": 19,
+      "largest_patch_sasa": 1516.0,
+      "score": 205,
+      "reason": "size=19 sasa=1516 arom=7 fyf=True"
+    },
+    {
+      "pdb": "3dzu.pdb",
+      "label": "other",
+      "n_patches": 31,
+      "largest_patch_size": 17,
+      "largest_patch_sasa": 1233.4,
+      "score": 145,
+      "reason": "size=17 sasa=1233 arom=3 fyf=True"
+    },
+    {
+      "pdb": "3kys.pdb",
+      "label": "other",
+      "n_patches": 19,
+      "largest_patch_size": 16,
+      "largest_patch_sasa": 1055.4,
+      "score": 130,
+      "reason": "size=16 sasa=1055 arom=2 fyf=True"
+    },
+    {
+      "pdb": "3o96.pdb",
+      "label": "other",
+      "n_patches": 15,
+      "largest_patch_size": 8,
+      "largest_patch_sasa": 557.1,
+      "score": 130,
+      "reason": "size=8 sasa=557 arom=2 fyf=True"
+    },
+    {
+      "pdb": "4c5i.pdb",
+      "label": "other",
+      "n_patches": 43,
+      "largest_patch_size": 19,
+      "largest_patch_sasa": 1434.0,
+      "score": 175,
+      "reason": "size=19 sasa=1434 arom=5 fyf=True"
+    },
+    {
+      "pdb": "4e3c.pdb",
+      "label": "other",
+      "n_patches": 159,
+      "largest_patch_size": 20,
+      "largest_patch_sasa": 1139.0,
+      "score": 80,
+      "reason": "size=20 sasa=1139 arom=0 fyf=False"
+    },
+    {
+      "pdb": "4o6f.pdb",
+      "label": "other",
+      "n_patches": 17,
+      "largest_patch_size": 7,
+      "largest_patch_sasa": 429.8,
+      "score": 145,
+      "reason": "size=7 sasa=430 arom=3 fyf=True"
+    },
+    {
+      "pdb": "5gt0.pdb",
+      "label": "other",
+      "n_patches": 23,
+      "largest_patch_size": 8,
+      "largest_patch_sasa": 632.9,
+      "score": 80,
+      "reason": "size=8 sasa=633 arom=0 fyf=False"
+    },
+    {
+      "pdb": "5uq3.pdb",
+      "label": "other",
+      "n_patches": 16,
+      "largest_patch_size": 12,
+      "largest_patch_sasa": 848.3,
+      "score": 145,
+      "reason": "size=12 sasa=848 arom=3 fyf=True"
+    },
+    {
+      "pdb": "5ydy.pdb",
+      "label": "other",
+      "n_patches": 2,
+      "largest_patch_size": 19,
+      "largest_patch_sasa": 1513.0,
+      "score": 95,
+      "reason": "size=19 sasa=1513 arom=1 fyf=False"
+    },
+    {
+      "pdb": "6k1i.pdb",
+      "label": "other",
+      "n_patches": 28,
+      "largest_patch_size": 9,
+      "largest_patch_sasa": 613.8,
+      "score": 80,
+      "reason": "size=9 sasa=614 arom=0 fyf=False"
+    },
+    {
+      "pdb": "6o9b.pdb",
+      "label": "other",
+      "n_patches": 19,
+      "largest_patch_size": 7,
+      "largest_patch_sasa": 361.8,
+      "score": 80,
+      "reason": "size=7 sasa=362 arom=0 fyf=False"
+    },
+    {
+      "pdb": "6ttu.pdb",
+      "label": "other",
+      "n_patches": 60,
+      "largest_patch_size": 14,
+      "largest_patch_sasa": 935.5,
+      "score": 175,
+      "reason": "size=14 sasa=936 arom=5 fyf=True"
+    },
+    {
+      "pdb": "6xre.pdb",
+      "label": "other",
+      "n_patches": 169,
+      "largest_patch_size": 18,
+      "largest_patch_sasa": 1347.1,
+      "score": 145,
+      "reason": "size=18 sasa=1347 arom=3 fyf=True"
+    },
+    {
+      "pdb": "7tnx.pdb",
+      "label": "other",
+      "n_patches": 29,
+      "largest_patch_size": 10,
+      "largest_patch_sasa": 651.9,
+      "score": 95,
+      "reason": "size=10 sasa=652 arom=1 fyf=False"
+    },
+    {
+      "pdb": "8je2.pdb",
+      "label": "other",
+      "n_patches": 49,
+      "largest_patch_size": 11,
+      "largest_patch_sasa": 729.5,
+      "score": 145,
+      "reason": "size=11 sasa=730 arom=3 fyf=True"
+    },
+    {
+      "pdb": "8ytc.pdb",
+      "label": "other",
+      "n_patches": 16,
+      "largest_patch_size": 19,
+      "largest_patch_sasa": 1372.9,
+      "score": 175,
+      "reason": "size=19 sasa=1373 arom=5 fyf=True"
+    },
+    {
+      "pdb": "DNMT1_3PTA.pdb",
+      "label": "other",
+      "n_patches": 40,
+      "largest_patch_size": 18,
+      "largest_patch_sasa": 1130.7,
+      "score": 95,
+      "reason": "size=18 sasa=1131 arom=1 fyf=False"
+    },
+    {
+      "pdb": "ER-alpha_1A52.pdb",
+      "label": "other",
+      "n_patches": 22,
+      "largest_patch_size": 13,
+      "largest_patch_sasa": 1085.0,
+      "score": 80,
+      "reason": "size=13 sasa=1085 arom=0 fyf=False"
+    },
+    {
+      "pdb": "p53_1TUP.pdb",
+      "label": "other",
+      "n_patches": 29,
+      "largest_patch_size": 6,
+      "largest_patch_sasa": 375.7,
+      "score": 80,
+      "reason": "size=6 sasa=376 arom=0 fyf=False"
+    },
+    {
+      "pdb": "pcna_1VYM.pdb",
+      "label": "other",
+      "n_patches": 18,
+      "largest_patch_size": 4,
+      "largest_patch_sasa": 425.4,
+      "score": 70,
+      "reason": "size=4 sasa=425 arom=0 fyf=False"
+    },
+    {
+      "pdb": "PML_1BOR.pdb",
+      "label": "other",
+      "n_patches": 4,
+      "largest_patch_size": 10,
+      "largest_patch_sasa": 615.2,
+      "score": 80,
+      "reason": "size=10 sasa=615 arom=0 fyf=False"
+    }
+  ]
+}

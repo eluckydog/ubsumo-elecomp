@@ -1,0 +1,4 @@
+Original DeepPCT training data:
+Source: https://github.com/DeepPCT/DeepPCT
+Training set used: training-set.csv (extracted 191 K sites for Ub/SUMO cross-talk)
+Original dataset includes ~12675 PTM cross-talk samples

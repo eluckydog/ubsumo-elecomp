@@ -1,0 +1,1575 @@
+{
+  "ubiquitin": {
+    "name": "Ub",
+    "pdb": "ubiquitin_1UBQ.pdb",
+    "n_atoms": 602,
+    "n_residues": 73,
+    "total_sasa": 5035.3,
+    "hydrophobic_sasa": 1482.0,
+    "polar_sasa": 3789.6,
+    "aromatic_sasa": 151.9,
+    "charged_sasa": 2459.1,
+    "positive_sasa": 1310.8,
+    "negative_sasa": 1148.3,
+    "hydro_frac": 29.4,
+    "aromatic_frac": 3.0,
+    "hydro_per_res": 20.3,
+    "residue_data": [
+      {
+        "residue": "MET",
+        "total_sasa": 60.07,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 83.55,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "PHE",
+        "total_sasa": 57.76,
+        "is_hydrophobic": 1,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 1.31,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 109.54,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 31.48,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 149.76,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 135.25,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 75.81,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 104.54,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 76.35,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 9.19,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 66.09,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 6.56,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 155.56,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 5.1,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 101.53,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "PRO",
+        "total_sasa": 52.51,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 94.44,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 35.09,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 48.45,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 136.47,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ASN",
+        "total_sasa": 58.54,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 1.31,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 18.08,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "ALA",
+        "total_sasa": 47.83,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 67.12,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 2.63,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 84.0,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 139.65,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 117.55,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 80.97,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 51.45,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 38.07,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "PRO",
+        "total_sasa": 105.58,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 95.97,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 44.47,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 96.01,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 2.5,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 32.82,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "PHE",
+        "total_sasa": 43.32,
+        "is_hydrophobic": 1,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ALA",
+        "total_sasa": 81.99,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 81.63,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 97.11,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 111.55,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 9.32,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 126.85,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 67.66,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 52.17,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 129.6,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 31.06,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 71.82,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 99.75,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "TYR",
+        "total_sasa": 50.86,
+        "is_hydrophobic": 0,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASN",
+        "total_sasa": 126.26,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 9.32,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 129.8,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 134.26,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 108.79,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 22.0,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 64.51,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 1.31,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "HIS",
+        "total_sasa": 91.98,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 9.91,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 42.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 88.88,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 127.4,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 125.63,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 217.66,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 236.32,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0
+      }
+    ]
+  },
+  "sumo1": {
+    "name": "SUMO-1",
+    "pdb": "sumo1_1A5R.pdb",
+    "n_atoms": 1622,
+    "n_residues": 96,
+    "total_sasa": 8632.8,
+    "hydrophobic_sasa": 2323.6,
+    "polar_sasa": 6509.2,
+    "aromatic_sasa": 314.1,
+    "charged_sasa": 4069.4,
+    "positive_sasa": 2230.7,
+    "negative_sasa": 1838.7,
+    "hydro_frac": 26.9,
+    "aromatic_frac": 3.6,
+    "hydro_per_res": 24.2,
+    "residue_data": [
+      {
+        "residue": "GLY",
+        "total_sasa": 164.37,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 55.05,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "MET",
+        "total_sasa": 215.93,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 40.75,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 160.55,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 121.81,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 158.32,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ALA",
+        "total_sasa": 79.22,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 118.42,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "PRO",
+        "total_sasa": 98.44,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 116.9,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 147.44,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 118.2,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 111.32,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 176.15,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 56.3,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 110.97,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 341.52,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 166.57,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 32.17,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 105.48,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "TYR",
+        "total_sasa": 108.73,
+        "is_hydrophobic": 0,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 2.77,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 118.31,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 79.94,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 87.92,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 6.12,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 162.11,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 69.05,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 168.28,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 136.67,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 34.65,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "HIS",
+        "total_sasa": 102.48,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "PHE",
+        "total_sasa": 74.97,
+        "is_hydrophobic": 1,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 118.48,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 22.55,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 79.53,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "MET",
+        "total_sasa": 32.53,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 183.77,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "HIS",
+        "total_sasa": 89.65,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 2.24,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 195.67,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 31.27,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 52.52,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 75.64,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "TYR",
+        "total_sasa": 2.11,
+        "is_hydrophobic": 0,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "CYS",
+        "total_sasa": 3.16,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 150.63,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 184.95,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 73.13,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 22.55,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 56.04,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "PRO",
+        "total_sasa": 38.13,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "MET",
+        "total_sasa": 200.75,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASN",
+        "total_sasa": 119.7,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 17.72,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 6.02,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 163.84,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "PHE",
+        "total_sasa": 14.24,
+        "is_hydrophobic": 1,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 35.72,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "PHE",
+        "total_sasa": 6.7,
+        "is_hydrophobic": 1,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 101.94,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 45.9,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 93.95,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ARG",
+        "total_sasa": 204.87,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 27.3,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ALA",
+        "total_sasa": 53.8,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 39.41,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ASN",
+        "total_sasa": 118.62,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "HIS",
+        "total_sasa": 23.57,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 49.82,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "PRO",
+        "total_sasa": 136.34,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "LYS",
+        "total_sasa": 159.07,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 41.49,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "LEU",
+        "total_sasa": 2.33,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 70.23,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "MET",
+        "total_sasa": 93.7,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 256.79,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "ASP",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 83.16,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "ILE",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 54.25,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 0.0,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "TYR",
+        "total_sasa": 107.33,
+        "is_hydrophobic": 0,
+        "is_aromatic": 1,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 38.71,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLU",
+        "total_sasa": 155.22,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 0,
+        "is_negative": 1
+      },
+      {
+        "residue": "GLN",
+        "total_sasa": 118.37,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 138.45,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "GLY",
+        "total_sasa": 141.19,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "HIS",
+        "total_sasa": 219.12,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 1,
+        "is_positive": 1,
+        "is_negative": 0
+      },
+      {
+        "residue": "SER",
+        "total_sasa": 66.52,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "THR",
+        "total_sasa": 164.26,
+        "is_hydrophobic": 0,
+        "is_aromatic": 0,
+        "is_charged": 0,
+        "is_positive": 0,
+        "is_negative": 0
+      },
+      {
+        "residue": "VAL",
+        "total_sasa": 199.98,
+        "is_hydrophobic": 1,
+        "is_aromatic": 0
+      }
+    ]
+  },
+  "comparison": {
+    "hydro_frac": {
+      "ub": 29.4,
+      "sumo": 26.9
+    },
+    "aromatic_frac": {
+      "ub": 3.0,
+      "sumo": 3.6
+    },
+    "hydro_per_res": {
+      "ub": 20.3,
+      "sumo": 24.2
+    },
+    "hydrophobic_sasa": {
+      "ub": 1482.0,
+      "sumo": 2323.6
+    },
+    "total_sasa": {
+      "ub": 5035.3,
+      "sumo": 8632.8
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "total_proteins_analyzed": 55,
+    "total_k_sites": 191,
+    "alphafold_structures_downloaded": 55,
+    "sites_with_alphafold_sequence": 150,
+    "sites_with_known_issues": [
+      "P01106/Myc - all K sites mismatched (isoform)",
+      "some out of range"
+    ]
+  },
+  "motif_analysis": {
+    "psi_K_x_DE_motif": {
+      "definition": "Hydrophobic at -1 (I/L/V/M/F/W/Y/A), K at 0, any at +1, D/E at +2",
+      "sumo_sites_with_motif": 44,
+      "sumo_sites_without_motif": 30,
+      "ub_only_sites_with_motif": 3,
+      "ub_only_sites_without_motif": 25,
+      "both_sites_with_motif": 4,
+      "total_sumo_labeled": 74,
+      "total_ub_only_labeled": 28
+    },
+    "key_false_negatives": {
+      "SNCA_alpha_synuclein": "10/11 SUMO sites lack motif - all in disordered N-terminal region",
+      "ER_alpha": "6/6 SUMO sites lack motif - all in disordered regions",
+      "PR_K7_K531": "2/3 SUMO sites lack motif"
+    },
+    "key_false_positives": {
+      "IKKB_K147": "Ub site with perfect psi-K-x-E motif",
+      "IKBalpha_K21_K38": "Ub sites with motif"
+    }
+  },
+  "conclusion": "SUM0 consensus motif is NOT a reliable discriminator. The motif is present at many SUMO sites but also absent at many real SUMO sites (disordered region SUMOylation). The Ub-only false positive rate is low (~3/28=11%) which supports asymmetric framework: motif roughly predicts where SUMO CAN act, but Ub acts everywhere regardless."
+}

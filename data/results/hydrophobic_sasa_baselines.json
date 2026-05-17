@@ -1,0 +1,205 @@
+{
+  "ubiquitin_single": {
+    "hydro_frac": 33.6,
+    "hydro_per_res": 19.47,
+    "hydrophobic_sasa": 1479.9
+  },
+  "sumo_single": {
+    "hydro_frac": 29.0,
+    "hydro_per_res": 18.26,
+    "hydrophobic_sasa": 1880.5
+  },
+  "ubiquitin_baseline": {
+    "n": 16,
+    "mean_hydrophobic_sasa": 7356.28125,
+    "std_hydrophobic_sasa": 9165.755018288097,
+    "mean_hydro_frac": 35.08125,
+    "std_hydro_frac": 4.462653183645353,
+    "mean_hydro_per_res": 17.520625,
+    "std_hydro_per_res": 2.361534111414654
+  },
+  "sumo_stats": {
+    "n": 8,
+    "structures": [
+      {
+        "name": "1A5R (SUMO)",
+        "pdb": "1a5r.pdb",
+        "n_residues": 103,
+        "total_sasa": 6487.0,
+        "hydrophobic_sasa": 1880.5,
+        "polar_sasa": 4606.6,
+        "aromatic_sasa": 249.4,
+        "charged_sasa": 2804.8,
+        "positive_sasa": 1348.2,
+        "negative_sasa": 1456.6,
+        "hydro_frac": 29.0,
+        "aromatic_frac": 3.8,
+        "hydro_per_res": 18.26
+      },
+      {
+        "name": "5I4V (SUMO)",
+        "pdb": "5i4v.pdb",
+        "n_residues": 938,
+        "total_sasa": 46975.7,
+        "hydrophobic_sasa": 19717.4,
+        "polar_sasa": 27258.3,
+        "aromatic_sasa": 3505.7,
+        "charged_sasa": 17581.9,
+        "positive_sasa": 9490.3,
+        "negative_sasa": 8091.6,
+        "hydro_frac": 42.0,
+        "aromatic_frac": 7.5,
+        "hydro_per_res": 21.02
+      },
+      {
+        "name": "2BFW (SUMO)",
+        "pdb": "2bfw.pdb",
+        "n_residues": 213,
+        "total_sasa": 8499.8,
+        "hydrophobic_sasa": 3329.2,
+        "polar_sasa": 5170.6,
+        "aromatic_sasa": 869.9,
+        "charged_sasa": 3604.2,
+        "positive_sasa": 1663.3,
+        "negative_sasa": 1941.0,
+        "hydro_frac": 39.2,
+        "aromatic_frac": 10.2,
+        "hydro_per_res": 15.63
+      },
+      {
+        "name": "5KMS (SUMO)",
+        "pdb": "5kms.pdb",
+        "n_residues": 1578,
+        "total_sasa": 66958.5,
+        "hydrophobic_sasa": 25894.0,
+        "polar_sasa": 41064.5,
+        "aromatic_sasa": 6173.5,
+        "charged_sasa": 28400.4,
+        "positive_sasa": 14924.1,
+        "negative_sasa": 13476.3,
+        "hydro_frac": 38.7,
+        "aromatic_frac": 9.2,
+        "hydro_per_res": 16.41
+      },
+      {
+        "name": "1WM3 (SUMO)",
+        "pdb": "1wm3.pdb",
+        "n_residues": 72,
+        "total_sasa": 4219.2,
+        "hydrophobic_sasa": 1253.2,
+        "polar_sasa": 2966.0,
+        "aromatic_sasa": 272.0,
+        "charged_sasa": 1812.6,
+        "positive_sasa": 991.4,
+        "negative_sasa": 821.2,
+        "hydro_frac": 29.7,
+        "aromatic_frac": 6.4,
+        "hydro_per_res": 17.41
+      },
+      {
+        "name": "6P5F (SUMO)",
+        "pdb": "6p5f.pdb",
+        "n_residues": 124,
+        "total_sasa": 6016.1,
+        "hydrophobic_sasa": 2220.9,
+        "polar_sasa": 3795.3,
+        "aromatic_sasa": 686.1,
+        "charged_sasa": 2248.2,
+        "positive_sasa": 916.0,
+        "negative_sasa": 1332.1,
+        "hydro_frac": 36.9,
+        "aromatic_frac": 11.4,
+        "hydro_per_res": 17.91
+      },
+      {
+        "name": "3ZNH (SUMO)",
+        "pdb": "3znh.pdb",
+        "n_residues": 228,
+        "total_sasa": 10928.9,
+        "hydrophobic_sasa": 3911.9,
+        "polar_sasa": 7016.9,
+        "aromatic_sasa": 1181.4,
+        "charged_sasa": 4257.8,
+        "positive_sasa": 1951.9,
+        "negative_sasa": 2305.8,
+        "hydro_frac": 35.8,
+        "aromatic_frac": 10.8,
+        "hydro_per_res": 17.16
+      },
+      {
+        "name": "5IQG (SUMO)",
+        "pdb": "5iqg.pdb",
+        "n_residues": 1176,
+        "total_sasa": 63038.7,
+        "hydrophobic_sasa": 16367.0,
+        "polar_sasa": 46671.7,
+        "aromatic_sasa": 8032.1,
+        "charged_sasa": 26292.5,
+        "positive_sasa": 10115.0,
+        "negative_sasa": 16177.4,
+        "hydro_frac": 26.0,
+        "aromatic_frac": 12.7,
+        "hydro_per_res": 13.92
+      }
+    ],
+    "mean_hydro_per_res": 17.215
+  },
+  "z_scores": [
+    {
+      "pdb": "1a5r.pdb",
+      "hydrophobic_sasa": 1880.5,
+      "hydro_per_res": 18.26,
+      "z_score_total": -0.597417369226471,
+      "z_score_per_res": 0.3130909676155756
+    },
+    {
+      "pdb": "5i4v.pdb",
+      "hydrophobic_sasa": 19717.4,
+      "hydro_per_res": 21.02,
+      "z_score_total": 1.3486198054973444,
+      "z_score_per_res": 1.4818227621974658
+    },
+    {
+      "pdb": "2bfw.pdb",
+      "hydrophobic_sasa": 3329.2,
+      "hydro_per_res": 15.63,
+      "z_score_total": -0.4393616501821085,
+      "z_score_per_res": -0.8005918656273135
+    },
+    {
+      "pdb": "5kms.pdb",
+      "hydrophobic_sasa": 25894.0,
+      "hydro_per_res": 16.41,
+      "z_score_total": 2.022497733466841,
+      "z_score_per_res": -0.4702980975933012
+    },
+    {
+      "pdb": "1wm3.pdb",
+      "hydrophobic_sasa": 1253.2,
+      "hydro_per_res": 17.41,
+      "z_score_total": -0.6658569029853781,
+      "z_score_per_res": -0.046844548831746505
+    },
+    {
+      "pdb": "6p5f.pdb",
+      "hydrophobic_sasa": 2220.9,
+      "hydro_per_res": 17.91,
+      "z_score_total": -0.5602791302793454,
+      "z_score_per_res": 0.16488222554903084
+    },
+    {
+      "pdb": "3znh.pdb",
+      "hydrophobic_sasa": 3911.9,
+      "hydro_per_res": 17.16,
+      "z_score_total": -0.37578805489864736,
+      "z_score_per_res": -0.15270793602213517
+    },
+    {
+      "pdb": "5iqg.pdb",
+      "hydrophobic_sasa": 16367.0,
+      "hydro_per_res": 13.92,
+      "z_score_total": 0.9830852703373854,
+      "z_score_per_res": -1.5246974340095725
+    }
+  ]
+}

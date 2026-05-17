@@ -1,0 +1,366 @@
+{
+  "results": [
+    {
+      "features": "DE+all",
+      "classifier": "RF",
+      "n_feat": 22,
+      "acc_mean": 0.7847931716546267,
+      "acc_std": 0.051453174200669076,
+      "auc_mean": 0.8213289043687649
+    },
+    {
+      "features": "all",
+      "classifier": "RF",
+      "n_feat": 21,
+      "acc_mean": 0.7794690975805526,
+      "acc_std": 0.05674768715866597,
+      "auc_mean": 0.8109720788900355
+    },
+    {
+      "features": "motif+spatial",
+      "classifier": "RF",
+      "n_feat": 13,
+      "acc_mean": 0.7677015250544662,
+      "acc_std": 0.08328016657829372,
+      "auc_mean": 0.809615081412682
+    },
+    {
+      "features": "motif_only",
+      "classifier": "GB",
+      "n_feat": 4,
+      "acc_mean": 0.7667261495241371,
+      "acc_std": 0.08331119520921179,
+      "auc_mean": 0.7788477525513129
+    },
+    {
+      "features": "all_3d",
+      "classifier": "RF",
+      "n_feat": 15,
+      "acc_mean": 0.7643633184267858,
+      "acc_std": 0.08110073979257537,
+      "auc_mean": 0.8180465972938883
+    },
+    {
+      "features": "motif_only",
+      "classifier": "RF",
+      "n_feat": 4,
+      "acc_mean": 0.7626447655085424,
+      "acc_std": 0.0867991326130007,
+      "auc_mean": 0.7858194301112257
+    },
+    {
+      "features": "DE+all",
+      "classifier": "MLP",
+      "n_feat": 22,
+      "acc_mean": 0.7407858903795437,
+      "acc_std": 0.08476586036195059,
+      "auc_mean": 0.8070311604173832
+    },
+    {
+      "features": "motif_only",
+      "classifier": "MLP",
+      "n_feat": 4,
+      "acc_mean": 0.7404039101020524,
+      "acc_std": 0.06342424865544743,
+      "auc_mean": 0.7480331240683408
+    },
+    {
+      "features": "DE+all",
+      "classifier": "GB",
+      "n_feat": 22,
+      "acc_mean": 0.7380718954248366,
+      "acc_std": 0.08226390821111883,
+      "auc_mean": 0.8067609792454994
+    },
+    {
+      "features": "all",
+      "classifier": "GB",
+      "n_feat": 21,
+      "acc_mean": 0.7371818025455796,
+      "acc_std": 0.07437435967682866,
+      "auc_mean": 0.8043680483889463
+    },
+    {
+      "features": "all_seq",
+      "classifier": "RF",
+      "n_feat": 12,
+      "acc_mean": 0.7369754041967664,
+      "acc_std": 0.07402754907692081,
+      "auc_mean": 0.7674338521958491
+    },
+    {
+      "features": "all",
+      "classifier": "MLP",
+      "n_feat": 21,
+      "acc_mean": 0.7274839467950921,
+      "acc_std": 0.08011895455733097,
+      "auc_mean": 0.801774452471047
+    },
+    {
+      "features": "motif+spatial",
+      "classifier": "GB",
+      "n_feat": 13,
+      "acc_mean": 0.7219541910331383,
+      "acc_std": 0.08525669476407503,
+      "auc_mean": 0.7942656375415663
+    },
+    {
+      "features": "all_seq",
+      "classifier": "GB",
+      "n_feat": 12,
+      "acc_mean": 0.7151430455223026,
+      "acc_std": 0.09621716595505712,
+      "auc_mean": 0.7682641038871689
+    },
+    {
+      "features": "motif+spatial",
+      "classifier": "MLP",
+      "n_feat": 13,
+      "acc_mean": 0.7142644192179796,
+      "acc_std": 0.09485614206068428,
+      "auc_mean": 0.754214682949203
+    },
+    {
+      "features": "all_3d",
+      "classifier": "GB",
+      "n_feat": 15,
+      "acc_mean": 0.7124992833390666,
+      "acc_std": 0.08583904519762803,
+      "auc_mean": 0.7883399266139205
+    },
+    {
+      "features": "all",
+      "classifier": "LR",
+      "n_feat": 21,
+      "acc_mean": 0.7106316649466803,
+      "acc_std": 0.07585897099186334,
+      "auc_mean": 0.811445075106066
+    },
+    {
+      "features": "DE+motif",
+      "classifier": "GB",
+      "n_feat": 5,
+      "acc_mean": 0.7083928161908039,
+      "acc_std": 0.088721445007769,
+      "auc_mean": 0.7662603199174407
+    },
+    {
+      "features": "all_seq",
+      "classifier": "LR",
+      "n_feat": 12,
+      "acc_mean": 0.7081964510950579,
+      "acc_std": 0.10062289714968954,
+      "auc_mean": 0.790282077743378
+    },
+    {
+      "features": "motif+spatial",
+      "classifier": "LR",
+      "n_feat": 13,
+      "acc_mean": 0.7065531475748194,
+      "acc_std": 0.07090191944462226,
+      "auc_mean": 0.7910338550624928
+    },
+    {
+      "features": "all_3d",
+      "classifier": "LR",
+      "n_feat": 15,
+      "acc_mean": 0.7062242002063982,
+      "acc_std": 0.0732448365333652,
+      "auc_mean": 0.7849415204678363
+    },
+    {
+      "features": "motif+negpos",
+      "classifier": "GB",
+      "n_feat": 6,
+      "acc_mean": 0.702120599701869,
+      "acc_std": 0.08172816452643708,
+      "auc_mean": 0.770913599357872
+    },
+    {
+      "features": "DE+all",
+      "classifier": "LR",
+      "n_feat": 22,
+      "acc_mean": 0.698558078202041,
+      "acc_std": 0.07833602645590873,
+      "auc_mean": 0.7998982341474604
+    },
+    {
+      "features": "motif_only",
+      "classifier": "LR",
+      "n_feat": 4,
+      "acc_mean": 0.6985272617819057,
+      "acc_std": 0.06862845043671428,
+      "auc_mean": 0.7714754615296412
+    },
+    {
+      "features": "motif+window",
+      "classifier": "RF",
+      "n_feat": 10,
+      "acc_mean": 0.6982714138286893,
+      "acc_std": 0.08938133254648485,
+      "auc_mean": 0.7595244238046095
+    },
+    {
+      "features": "motif+negpos",
+      "classifier": "RF",
+      "n_feat": 6,
+      "acc_mean": 0.6960906146084164,
+      "acc_std": 0.07998932786089812,
+      "auc_mean": 0.7747832100676528
+    },
+    {
+      "features": "motif+window",
+      "classifier": "LR",
+      "n_feat": 10,
+      "acc_mean": 0.6960870313037496,
+      "acc_std": 0.09821066843528957,
+      "auc_mean": 0.7979632496273363
+    },
+    {
+      "features": "motif+window",
+      "classifier": "GB",
+      "n_feat": 10,
+      "acc_mean": 0.6958433665864007,
+      "acc_std": 0.08152389583540766,
+      "auc_mean": 0.7606624813668158
+    },
+    {
+      "features": "motif+window",
+      "classifier": "MLP",
+      "n_feat": 10,
+      "acc_mean": 0.6912273535145051,
+      "acc_std": 0.09896000024138085,
+      "auc_mean": 0.7654196766425868
+    },
+    {
+      "features": "motif+negpos",
+      "classifier": "LR",
+      "n_feat": 6,
+      "acc_mean": 0.6904003267973856,
+      "acc_std": 0.08298387231271859,
+      "auc_mean": 0.7556186217176929
+    },
+    {
+      "features": "DE+motif",
+      "classifier": "LR",
+      "n_feat": 5,
+      "acc_mean": 0.6886710239651416,
+      "acc_std": 0.06702768052747841,
+      "auc_mean": 0.7537646198830411
+    },
+    {
+      "features": "motif+negpos",
+      "classifier": "MLP",
+      "n_feat": 6,
+      "acc_mean": 0.6837970129572296,
+      "acc_std": 0.06264675181467516,
+      "auc_mean": 0.7837529383098268
+    },
+    {
+      "features": "all_seq",
+      "classifier": "MLP",
+      "n_feat": 12,
+      "acc_mean": 0.6824554236899438,
+      "acc_std": 0.09044171820393573,
+      "auc_mean": 0.7407464740282078
+    },
+    {
+      "features": "DE+motif",
+      "classifier": "MLP",
+      "n_feat": 5,
+      "acc_mean": 0.6792290161678706,
+      "acc_std": 0.06190481356670083,
+      "auc_mean": 0.730193641784199
+    },
+    {
+      "features": "DE+motif",
+      "classifier": "RF",
+      "n_feat": 5,
+      "acc_mean": 0.6723469212246302,
+      "acc_std": 0.07834656541425306,
+      "auc_mean": 0.7225565445476435
+    },
+    {
+      "features": "all_3d",
+      "classifier": "MLP",
+      "n_feat": 15,
+      "acc_mean": 0.6707631005618622,
+      "acc_std": 0.07998805185239263,
+      "auc_mean": 0.7472989049420937
+    },
+    {
+      "features": "DE_only",
+      "classifier": "RF",
+      "n_feat": 1,
+      "acc_mean": 0.5325464396284829,
+      "acc_std": 0.061090307030954916,
+      "auc_mean": 0.5665376676986583
+    },
+    {
+      "features": "DE_only",
+      "classifier": "GB",
+      "n_feat": 1,
+      "acc_mean": 0.5228607671138631,
+      "acc_std": 0.05472142749780612,
+      "auc_mean": 0.562073945075106
+    },
+    {
+      "features": "DE_only",
+      "classifier": "MLP",
+      "n_feat": 1,
+      "acc_mean": 0.4740253411306043,
+      "acc_std": 0.048938673932395996,
+      "auc_mean": 0.46664373351679855
+    },
+    {
+      "features": "DE_only",
+      "classifier": "LR",
+      "n_feat": 1,
+      "acc_mean": 0.4592377594312579,
+      "acc_std": 0.06853834125638993,
+      "auc_mean": 0.44778121775025803
+    }
+  ],
+  "best": [
+    {
+      "features": "DE+all",
+      "classifier": "RF",
+      "n_feat": 22,
+      "acc_mean": 0.7847931716546267,
+      "acc_std": 0.051453174200669076,
+      "auc_mean": 0.8213289043687649
+    },
+    {
+      "features": "all",
+      "classifier": "RF",
+      "n_feat": 21,
+      "acc_mean": 0.7794690975805526,
+      "acc_std": 0.05674768715866597,
+      "auc_mean": 0.8109720788900355
+    },
+    {
+      "features": "motif+spatial",
+      "classifier": "RF",
+      "n_feat": 13,
+      "acc_mean": 0.7677015250544662,
+      "acc_std": 0.08328016657829372,
+      "auc_mean": 0.809615081412682
+    },
+    {
+      "features": "motif_only",
+      "classifier": "GB",
+      "n_feat": 4,
+      "acc_mean": 0.7667261495241371,
+      "acc_std": 0.08331119520921179,
+      "auc_mean": 0.7788477525513129
+    },
+    {
+      "features": "all_3d",
+      "classifier": "RF",
+      "n_feat": 15,
+      "acc_mean": 0.7643633184267858,
+      "acc_std": 0.08110073979257537,
+      "auc_mean": 0.8180465972938883
+    }
+  ]
+}
